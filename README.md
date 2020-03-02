@@ -1,6 +1,9 @@
 # android_vendor_Lawnchair
 Lawnchair Vendor
-<img src="icon.png" alt="Icon" width="148px"/>
+## How To User Vendor Lawnchair ##
+1 . https://github.com/LotusOS/android_vendor_lotus/commit/aef657e8f1b51401a68acf0aa2661a2b63141169
+2 . https://github.com/LotusOS/android_vendor_pixelstyle/commit/23b854f8c9ea6fb87faad72f7d017ac80b2226f7
+3 . https://github.com/LotusOS/android_vendor_Lawnchair
 
 # Lawnchair — ![1.52M Downloads](https://img.shields.io/badge/downloads-1.52M-brightgreen) ![Rating: 4.4/5](https://img.shields.io/badge/rating-4.4%2F5-brightgreen) [![93% Localised](https://d322cqt584bo4o.cloudfront.net/lawnchairandroid/localized.svg)](https://translate.lawnchair.app) 
 
