@@ -16,7 +16,7 @@ LOCAL_PATH := vendor/Lawnchair
 
 # Prebuilt Packages
 PRODUCT_PACKAGES += \
-    Lawnchair \
+    Lawnchair 
 
 # Lawnchair 
 PRODUCT_COPY_FILES += \
